@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Lifetime Learner, Developer, and AWS DevOps Engineer!!
 
-- 🔭 I’m currently working on DevOpps tools and cloud platforms
+- 🔭 I’m currently working on DevOps tools and Cloud Platforms.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 📫 How to reach me: Linkedin
