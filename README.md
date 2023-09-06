@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Lifetime Learner, Developer, and AWs DevOps Engineer!!
+I'm a Lifetime Learner, Developer, and AWS DevOps Engineer!!
 
 - 🔭 I’m currently working on DevOpps tools and cloud platforms
 - 🌱 I’m currently learning everything 🤣
